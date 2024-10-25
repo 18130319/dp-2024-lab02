@@ -1,0 +1,14 @@
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\bin\Debug\net8.0\StrategyLab2.exe
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\bin\Debug\net8.0\StrategyLab2.deps.json
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\bin\Debug\net8.0\StrategyLab2.runtimeconfig.json
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\bin\Debug\net8.0\StrategyLab2.dll
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\bin\Debug\net8.0\StrategyLab2.pdb
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.AssemblyInfoInputs.cache
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.AssemblyInfo.cs
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.csproj.CoreCompileInputs.cache
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.dll
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\refint\StrategyLab2.dll
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.pdb
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\StrategyLab2.genruntimeconfig.cache
+C:\Users\gdr27\source\repos\Лаба\StrategyLab2\StrategyLab2\obj\Debug\net8.0\ref\StrategyLab2.dll
